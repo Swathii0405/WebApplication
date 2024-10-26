@@ -1,0 +1,94 @@
+
+
+.from-container{
+    margin: 64px 96px;
+    color: #2a2a2a;
+}
+
+.from-container form{
+    padding-top: 48px;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+    background-image: url("../Assets/Images/contactusbgimg1"); 
+    background-size:cover;
+    background-position: center; 
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: black 
+}
+
+.from-container input{
+    height: 48px;
+    padding: 0 16px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+    border: 1px solid #2a2a2a;
+}
+
+.from-container button{
+    display: inline;
+}
+
+.icon1{
+    padding-left: 5px;
+}
+
+.input-container {
+    position: relative;
+    margin-bottom: 15px; 
+   
+}
+
+.icon3 {
+    position: absolute;
+    left: 10px; 
+    top: 50%;
+    transform: translateY(-50%);
+    float:left;
+    color:black;
+    padding-bottom: 20px;
+}
+
+.input-container>input {
+    
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding-left: 40px; 
+    box-sizing: border-box;
+   
+} 
+
+
+.from-container textarea{
+    border-radius: 4px;
+    padding: 16px;
+    margin-bottom: 32px;
+}
+
+
+
+@media screen and (max-width:850px){
+    .from-container{
+        margin: 64px 32px;
+    }
+    .from-container form{
+        padding-top: 33px;
+        width: 90%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
