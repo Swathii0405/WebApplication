@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/WebApplication/static/css/main.315576ea.css",
+    "main.js": "/WebApplication/static/js/main.b9341b69.js",
+    "static/media/video1.mp4": "/WebApplication/static/media/video1.15d090f8a8eda3f8ba62.mp4",
+    "static/media/video3.mp4": "/WebApplication/static/media/video3.70f137b1e2a2e7dd81e0.mp4",
+    "static/media/malaysiaimg": "/WebApplication/static/media/malaysiaimg.08d4e3eb8e00d41e1fb2",
+    "static/media/contactusbgimg1": "/WebApplication/static/media/contactusbgimg1.73ef4e2903c9c8d51e08",
+    "static/media/maldivesimg1": "/WebApplication/static/media/maldivesimg1.036d3f6b7aeb11cb40e1",
+    "static/media/tajmahalimg": "/WebApplication/static/media/tajmahalimg.1bb49e0a949809e34ed4",
+    "static/media/banner3img": "/WebApplication/static/media/banner3img.c3974db9b94ac9876543",
+    "static/media/banner4img": "/WebApplication/static/media/banner4img.d1c9b0947016bc25a58a",
+    "static/media/parisimg2": "/WebApplication/static/media/parisimg2.7b44ffb9f8b226e38945",
+    "static/media/serviceimg": "/WebApplication/static/media/serviceimg.0fccf9f1d1d247917763",
+    "static/media/parisimg1": "/WebApplication/static/media/parisimg1.5cda88cf86e50ae752dd",
+    "static/media/flightbannerimg": "/WebApplication/static/media/flightbannerimg.9975c95afbc390896ade",
+    "static/media/maldivesimg2": "/WebApplication/static/media/maldivesimg2.487dfa9c3c5cde38995d",
+    "static/media/shipbannerimg": "/WebApplication/static/media/shipbannerimg.7b33669379e6c16b502b",
+    "static/media/adventurebannerimg": "/WebApplication/static/media/adventurebannerimg.23c390c52bb7168fb467",
+    "static/media/banner1img": "/WebApplication/static/media/banner1img.a36b5f062972e81b028f",
+    "static/media/makeamemorylogo.webp": "/WebApplication/static/media/makeamemorylogo.1bac231f9b6662b34144.webp",
+    "static/media/switzerlandimg": "/WebApplication/static/media/switzerlandimg.48c1d6c1e781319c17b9",
+    "static/media/contactusimg": "/WebApplication/static/media/contactusimg.caea327688da76866dd6",
+    "static/media/serviceimg5": "/WebApplication/static/media/serviceimg5.83c1a43350a5df88fd92",
+    "static/media/serviceimg3.jfif": "/WebApplication/static/media/serviceimg3.b054e0c65383391b8b04.jfif",
+    "static/media/serviceimg2.jfif": "/WebApplication/static/media/serviceimg2.c523115c6eb175215de1.jfif",
+    "static/media/serviceimg1": "/WebApplication/static/media/serviceimg1.9ece44a6f086bca37e05",
+    "static/media/serviceimg4.jfif": "/WebApplication/static/media/serviceimg4.1d71e0088f24334302ac.jfif",
+    "static/media/serviceimg6": "/WebApplication/static/media/serviceimg6.67a884bbd9a969792ec1",
+    "index.html": "/WebApplication/index.html",
+    "main.315576ea.css.map": "/WebApplication/static/css/main.315576ea.css.map",
+    "main.b9341b69.js.map": "/WebApplication/static/js/main.b9341b69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.315576ea.css",
+    "static/js/main.b9341b69.js"
+  ]
+}
