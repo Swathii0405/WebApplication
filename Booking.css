@@ -1,0 +1,123 @@
+
+
+.empty1{
+  height: 50px;
+}
+
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.form-wrapper {
+  background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px black;
+    width: 100%;
+    max-width: 800px; 
+}
+
+
+.des-durations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+
+.form-control {
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    width: 180px; 
+    margin-bottom: 10px;
+}
+
+.form-control:focus {
+    outline: none;
+    border-color: #4CAF50; 
+}
+
+
+.book-now-btn {
+    padding: 10px 15px;
+    color:black;
+    background-color: burlywood;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    width: auto;
+    transition: background-color 0.3s ease;
+    margin-bottom: 5px;
+}
+
+.book-now-btn:hover {
+    background-color: #45a049;
+}
+
+
+#booking-message {
+    margin-top: 20px;
+    color: green;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+@media (max-width: 768px) {
+    .des-durations {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    
+    .form-control {
+        width: 100%; 
+        margin: 0;
+    }
+
+    
+    .book-now-btn {
+        width: 100%; 
+        margin-top: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .form-control {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    .book-now-btn {
+        font-size: 14px;
+        padding: 10px 15px;
+    }
+}
+ 
+
+
+
+
+
+
+
+
+
+
