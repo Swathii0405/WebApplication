@@ -67,12 +67,14 @@
     .destination{
         margin: 64px 32px;
     }
+   
     .first-des{
         display: flex;
         flex-direction: column-reverse;
         align-items: center;
         justify-content: space-between;
         margin-top: 40px;
+
     }
 
     .des-text{
