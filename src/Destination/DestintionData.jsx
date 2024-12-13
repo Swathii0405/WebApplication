@@ -2,6 +2,7 @@
 
 import React from "react";
 import "./Destination.css";
+import "../Main/Booking.css";
 
 class DestinationData extends React.Component{
 render(){
