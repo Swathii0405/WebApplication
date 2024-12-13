@@ -68,13 +68,14 @@
 }
 
 .book-now-btn:hover {
-    background-color: #45a049;
+    background-color: lawngreen;
+    color: black;
 }
 
 
 #booking-message {
     margin-top: 20px;
-    color: green;
+    color: lightblue;
     font-size: 18px;
     font-weight: bold;
 }
