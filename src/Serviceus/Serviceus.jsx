@@ -2,18 +2,20 @@
 
 
 import "./Servicesus.css";
-import serviceimg from "../Assets/Images/serviceimg";
+import serviceimg from "../Assets/Images/serviceimg.webp";
 import img1 from "../Assets/Images/serviceimg1";
-import img2 from "../Assets/Images/serviceimg2.jfif";
-import img3 from "../Assets/Images/serviceimg3.jfif";
-import img4 from "../Assets/Images/serviceimg4.jfif";
+import img2 from "../Assets/Images/serviceimg2";
+import img3 from "../Assets/Images/serviceimg3";
+import img4 from "../Assets/Images/serviceimg4";
 import img5 from "../Assets/Images/serviceimg5";
 import img6 from "../Assets/Images/serviceimg6";
+import img7 from "../Assets/Images/serviceimg7";
+import img8 from "../Assets/Images/serviceimg8";
 import { useState } from "react";
 
 export const Data = [
 
-    {
+           {
                 id:1,
                 imgSrc:img1,
                 destTitle:"Tela suit",
@@ -81,7 +83,31 @@ export const Data = [
                 description: "Located in Bandra West,Novotel Convention Centre Hotel provides complementry.It is situated a brief walk from the Walk of the Stars and Castella de Aguada.Provides wifi and parking facilities."
         
         
+            },
+
+            {
+                id:7,
+                imgSrc:img7,
+                destTitle:"Hotel Chanoud Garh",
+                location: "Bengaluru",
+                grade: "CULTURALS RELAX",
+                fees: "Rs. 2499",
+                description: "Located in Bandra West, Taj Lands End provides 5-star accommodation and free Wi-Fi, a sauna and an outdoor pool. It is situated a brief walk from the Walk of the Stars and Castella de Aguada."
+        
+            },
+
+            {
+                id:8,
+                imgSrc:img8,
+                destTitle:"The Leela Palace",
+                location: "Udaipur",
+                grade: "CULTURALS RELAX",
+                fees: "Rs. 3100",
+                description: "Hotel Tela Suite INN Near IGI Airport Delhi is located in New Delhi, within 8.1 miles of MG Road and 8.2 miles of Qutub Minar. This 4-star hotel offers room service, an ATM and free WiFi. There's free private parking and the property."
+        
             }
+
+
     ]        
    
 
