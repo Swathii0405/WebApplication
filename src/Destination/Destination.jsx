@@ -1,6 +1,7 @@
 
 import DestinationData from "./DestintionData";
 import "./Destination.css";
+import "../Main/Booking.css";
 import maldivesimg1 from "../Assets/Images/maldivesimg1";
 import maldivesimg2 from "../Assets/Images/maldivesimg2";
 import parisimg1 from "../Assets/Images/parisimg1";
